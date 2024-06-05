@@ -3,8 +3,14 @@ title: "movies"
 --- 
 
 ## why?
+One of my favorite things to do with my roommates is watch movies! Whenever we have a free evening, we like to make dinner and put on a movie to watch for the evening. Taking the time 
 
-## my favorites
+## recent watches!
+Some movies I've enjoyed recently include:
+- Challengers (2024)
+- Bottoms (2023)
+- The Lego Ninjago Movie (2017)
+- Trolls Band Together (2023)
 
 ## my letterboxd
 ```{=html}
