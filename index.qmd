@@ -1,11 +1,25 @@
 ---
-title: "aidanrobertsonsite"
+title: "aidan robertson"
+image: images/headshot-01.JPG
+toc: false
+about:
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links: 
+    - text: github
+      href: https://github.com/aidan-robertson
+      icon: "github"
+    - text: linkedin
+      href: https://www.linkedin.com/in/am-robertson/
+      icon: "linkedin"
+    - text: email
+      href: mailto::aidanrobertson@ucsb.edu
+      icon: "envelope"
 ---
 
-This is a Quarto website.
+## about me!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi! I'm Aidan - an undergraduate student at UC Santa Barbara double majoring in environmental studies and geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I love watching movies with my friends, baking, and Google Calendar. 
 
-```{r}
-1 + 1
-```
+## 
