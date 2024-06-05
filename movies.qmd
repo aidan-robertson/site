@@ -1,18 +1,27 @@
 ---
 title: "movies"
---- 
+toc: false
+lightbox: true
+---
 
 ## why?
-One of my favorite things to do with my roommates is watch movies! Whenever we have a free evening, we like to make dinner and put on a movie to watch for the evening. Taking the time 
+
+One of my favorite things to do with my roommates is watch movies! Whenever we have a free evening, we like to make dinner and put on a movie or show to watch.
 
 ## recent watches!
-Some movies I've enjoyed recently include:
-- Challengers (2024)
-- Bottoms (2023)
-- The Lego Ninjago Movie (2017)
-- Trolls Band Together (2023)
+
+::: {layout-nrow="2"}
+![Challengers (2024)](images/challengers.jpg){group="movies" description="Challengers (2024)"}
+
+![Bottoms (2023)](images/bottoms.jpg){group="movies" description="Bottoms (2023)"}
+
+![Trolls Band Together (2023)](images/trolls-01.webp){group="movies" description="Trolls Band Together (2023)"}
+
+![The Lego Ninjago Movie (2017)](images/ninjagomovie.jpg){group="movies" description="The Lego Ninjago Movie (2017)"}
+:::
 
 ## my letterboxd
+
 ```{=html}
 <iframe width = "1000" height = "500" src = "https://lb-embed-content.bokonon.dev?username=aidanspaghetti" title="My Letterboxd"></iframe>
 ```

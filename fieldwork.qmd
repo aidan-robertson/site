@@ -1,11 +1,57 @@
 ---
 title: "fieldwork"
+lightbox: true
+toc: false
 ---
 
 ## sites i work at
 
-## cool pics!
+This map shows the location and area of sites I've worked at! See associated letters below for more information on my time at these sites.
 
-## up-and-coming
+```{=html}
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CCBER sites I work at" src="//ucsb.maps.arcgis.com/apps/Embed/index.html?webmap=d58c800acd294870b006274d8911f88f&extent=-119.8869,34.4083,-119.8616,34.4187&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
+```
+### a. lagoon island
 
+This is the site I work at the most. We work mostly in coastal sage scrub habitat which has been restored from invasive grasslands, mostly from controlled burning! Most of the time, we pull weeds, but I have also engaged in seed collection here!
 
+### b. west depression
+
+Her, we work in a degraded coastal dune habitat. Lots of hand weeding grasses and vetch here, but great for people watching!
+
+### c. east depression
+
+I've worked in coastal sage scrub and coastal dune habitat here! Truly a beautiful place to work.
+
+### d. henley gate
+
+Outside of Lagoon Island, I've worked the most at Henley Gate. We've engaged in a lot of detail-oriented hand weeding, picking non-native grasses and forbs from between sensitive natives like miniature lupines!
+
+### e. nursery
+
+At the nursery, I've spent a lot of time transplanting baby plants from trays to tiny pots. It's important to bulk out and prepare natives for future projects!
+
+### f. san clemente restoration site
+
+This is a mitigation project that acts as a drainage area for campus housing. It only gets a little attention every year, but I've enjoyed my time here pulling non-native thistles and looking at ducks.
+
+### g. north campus open space experimental plot
+
+Though this is not my main site, I have worked with my supervisor on a small plot of land to test different weed control methods at NCOS. In our experimental plots, I've counted grasses, conducted vegetation surveys, and used a flameweeder!
+
+### h. vernal pool 1
+
+Though this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses.
+
+## other cool stuff
+::: {layout-ncol="2"}
+![](images/PXL_20240314_221742322.jpg){group="cool" description="Huge bermuda buttercup."}
+
+![](images/20240314_151119.jpg){group="cool" description="Bermuda buttercup hole."}
+:::
+---
+::: {layout-ncol="2"}
+![](images/IMG_20240220_172103_320.jpg){group="cool" description="Frog in a log."}
+
+![](images/20240521_144144.jpg){group="cool" description="Ground squirrel."}
+:::
