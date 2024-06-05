@@ -44,14 +44,13 @@ Though this is not my main site, I have worked with my supervisor on a small plo
 Though this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses.
 
 ## other cool stuff
-::: {layout-ncol="2"}
-![](images/PXL_20240314_221742322.jpg){group="cool" description="Huge bermuda buttercup."}
 
-![](images/20240314_151119.jpg){group="cool" description="Bermuda buttercup hole."}
-:::
----
 ::: {layout-ncol="2"}
-![](images/IMG_20240220_172103_320.jpg){group="cool" description="Frog in a log."}
+![Huge bermuda buttercup from Lagoon Island](images/PXL_20240314_221742322.jpg){group="cool" description="Huge bermuda buttercup."}
 
-![](images/20240521_144144.jpg){group="cool" description="Ground squirrel."}
+![Bermuda buttercup hole](images/20240314_151119.jpg){group="cool" description="Bermuda buttercup hole."}
+
+![Frog in a log!](images/IMG_20240220_172103_320.jpg){group="cool" description="Frog in a log."}
+
+![Ground squirrel!](images/20240521_144144.jpg){group="cool" description="Ground squirrel."}
 :::

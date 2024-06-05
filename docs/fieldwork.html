@@ -190,46 +190,66 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="images/PXL_20240314_221742322.jpg" class="lightbox" data-description="Huge
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/PXL_20240314_221742322.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-1" data-description="Huge
 
 bermuda
 
-buttercup." data-gallery="cool"><img src="images/PXL_20240314_221742322.jpg" class="img-fluid"></a></p>
+buttercup." data-gallery="cool" title="Huge bermuda buttercup from Lagoon Island"><img src="images/PXL_20240314_221742322.jpg" class="img-fluid figure-img" alt="Huge bermuda buttercup from Lagoon Island"></a></p>
+<figcaption>Huge bermuda buttercup from Lagoon Island</figcaption>
+</figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="images/20240314_151119.jpg" class="lightbox" data-description="Bermuda
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/20240314_151119.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-2" data-description="Bermuda
 
 buttercup
 
-hole." data-gallery="cool"><img src="images/20240314_151119.jpg" class="img-fluid"></a></p>
+hole." data-gallery="cool" title="Bermuda buttercup hole"><img src="images/20240314_151119.jpg" class="img-fluid figure-img" alt="Bermuda buttercup hole"></a></p>
+<figcaption>Bermuda buttercup hole</figcaption>
+</figure>
 </div>
 </div>
 </div>
-<hr>
-<div>
-
-</div>
-<div class="quarto-layout-panel" data-layout-ncol="2">
 <div class="quarto-layout-row">
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="images/IMG_20240220_172103_320.jpg" class="lightbox" data-description="Frog
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/IMG_20240220_172103_320.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-3" data-description="Frog
 
 in
 
 a
 
-log." data-gallery="cool"><img src="images/IMG_20240220_172103_320.jpg" class="img-fluid"></a></p>
+log." data-gallery="cool" title="Frog in a log!"><img src="images/IMG_20240220_172103_320.jpg" class="img-fluid figure-img" alt="Frog in a log!"></a></p>
+<figcaption>Frog in a log!</figcaption>
+</figure>
 </div>
-<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
-<p><a href="images/20240521_144144.jpg" class="lightbox" data-description="Ground
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="images/20240521_144144.jpg" class="lightbox" data-glightbox="description: .lightbox-desc-4" data-description="Ground
 
-squirrel." data-gallery="cool"><img src="images/20240521_144144.jpg" class="img-fluid"></a></p>
+squirrel." data-gallery="cool" title="Ground squirrel!"><img src="images/20240521_144144.jpg" class="img-fluid figure-img" alt="Ground squirrel!"></a></p>
+<figcaption>Ground squirrel!</figcaption>
+</figure>
+</div>
 </div>
 </div>
 </div>
 
 
+<div class="hidden" aria-hidden="true">
+<span class="glightbox-desc lightbox-desc-1">Huge bermuda buttercup from Lagoon Island</span>
+<span class="glightbox-desc lightbox-desc-2">Bermuda buttercup hole</span>
+<span class="glightbox-desc lightbox-desc-3">Frog in a log!</span>
+<span class="glightbox-desc lightbox-desc-4">Ground squirrel!</span>
+</div>
 </section>
 
 </main> <!-- /main -->
@@ -643,7 +663,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-<script>var lightboxQuarto = GLightbox({"loop":false,"selector":".lightbox","descPosition":"bottom","closeEffect":"zoom","openEffect":"zoom"});
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","loop":false,"descPosition":"bottom","selector":".lightbox","openEffect":"zoom"});
 window.onload = () => {
   lightboxQuarto.on('slide_before_load', (data) => {
     const { slideIndex, slideNode, slideConfig, player, trigger } = data;
