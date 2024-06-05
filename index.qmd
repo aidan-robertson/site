@@ -1,6 +1,5 @@
 ---
 title: "aidan robertson"
-subtitle: "last updated June 6, 2024"
 image: images/headshot-02.JPG
 toc: false
 about:
