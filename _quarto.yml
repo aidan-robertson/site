@@ -3,18 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "aidan robertson"
   navbar:
-    left:
+   title: "aidan robertson"
+   left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: home
+      - fieldwork.qmd
+      - srb.qmd
+      - movies.qmd
+      
 
 format:
   html:
-    theme: cosmo
+    theme: quartz
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

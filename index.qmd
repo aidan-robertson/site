@@ -1,6 +1,7 @@
 ---
 title: "aidan robertson"
-image: images/headshot-01.JPG
+subtitle: "last updated June 6, 2024"
+image: images/headshot2.png
 toc: false
 about:
   template: trestles
@@ -20,6 +21,14 @@ about:
 
 ## about me!
 
-Hi! I'm Aidan - an undergraduate student at UC Santa Barbara double majoring in environmental studies and geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I love watching movies with my friends, baking, and Google Calendar. 
+Hi! I'm Aidan - an undergraduate student at UC Santa Barbara double majoring in environmental studies and geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I love watching movies with my friends, baking, and Google Calendar.
 
-## 
+## education
+
+University of California, Santa Barbara – Environmental Studies & Geography, B.A. (Expected June 2025)
+
+## current positions
+
+**Restoration Ecology Intern –** Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara
+
+**SRB Front Desk Student Supervisor –** Student Resource Building, University of California, Santa Barbara

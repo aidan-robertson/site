@@ -1,0 +1,12 @@
+---
+title: "movies"
+--- 
+
+## why?
+
+## my favorites
+
+## my letterboxd
+```{=html}
+<iframe width = "1000" height = "500" src = "https://lb-embed-content.bokonon.dev?username=aidanspaghetti" title="My Letterboxd"></iframe>
+```

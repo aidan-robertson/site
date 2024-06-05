@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "srb.html",
+    "href": "srb.html",
+    "title": "srb data collection",
+    "section": "",
+    "text": "I work at UCSB’s Student Resource Building Front Desk as a student assistant and supervisor. This means that I field a lot of questions from students and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us, and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times."
+  },
+  {
+    "objectID": "srb.html#background",
+    "href": "srb.html#background",
+    "title": "srb data collection",
+    "section": "",
+    "text": "I work at UCSB’s Student Resource Building Front Desk as a student assistant and supervisor. This means that I field a lot of questions from students and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us, and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times."
+  },
+  {
+    "objectID": "srb.html#data-visualization-timeline",
+    "href": "srb.html#data-visualization-timeline",
+    "title": "srb data collection",
+    "section": "data visualization timeline",
+    "text": "data visualization timeline\nFigure 1. April 24, 2024\n\n\n\n\n\nFigure 2. April 26, 2024\n\n\n\n\n\nFigure 3. May 8, 2024\n\n\n\n\n\nFigure 4. June 3, 2024"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "aidan robertson",
@@ -14,10 +35,45 @@
     "text": "Hi! I’m Aidan - an undergraduate student at UC Santa Barbara double majoring in environmental studies and geography. I’m really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB’s own Lagoon Island this summer! I love watching movies with my friends, baking, and Google Calendar."
   },
   {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "aidan robertson",
+    "section": "education",
+    "text": "education\nUniversity of California, Santa Barbara – Environmental Studies & Geography, B.A. (Expected June 2025)"
+  },
+  {
+    "objectID": "index.html#current-positions",
+    "href": "index.html#current-positions",
+    "title": "aidan robertson",
+    "section": "current positions",
+    "text": "current positions\nRestoration Ecology Intern – Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara\nSRB Front Desk Student Supervisor – Student Resource Building, University of California, Santa Barbara"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "about",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "fieldwork.html#cool-pics",
+    "href": "fieldwork.html#cool-pics",
+    "title": "fieldwork",
+    "section": "cool pics!",
+    "text": "cool pics!"
+  },
+  {
+    "objectID": "movies.html#my-favorites",
+    "href": "movies.html#my-favorites",
+    "title": "movies",
+    "section": "my favorites",
+    "text": "my favorites"
+  },
+  {
+    "objectID": "movies.html#my-letterboxd",
+    "href": "movies.html#my-letterboxd",
+    "title": "movies",
+    "section": "my letterboxd",
+    "text": "my letterboxd"
   }
 ]

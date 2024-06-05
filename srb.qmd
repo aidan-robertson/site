@@ -1,0 +1,25 @@
+---
+title: "srb data collection"
+---
+
+## background
+
+I work at UCSB's Student Resource Building Front Desk as a student assistant and supervisor. This means that I field a lot of questions from students and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us, and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times.
+
+## data visualization timeline
+
+Figure 1. April 24, 2024
+
+![](images/Screenshot%202024-06-04%20221333.png){fig-align="left" width="528"}
+
+Figure 2. April 26, 2024
+
+![](images/Screenshot%202024-04-26%20174019.png){fig-align="left"}
+
+Figure 3. May 8, 2024
+
+![](images/Screenshot%202024-05-08%20220535.png){fig-align="left"}
+
+Figure 4. June 3, 2024
+
+![](images/Screenshot 2024-06-04 222642.png){fig-align="left"}
