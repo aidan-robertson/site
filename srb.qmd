@@ -1,12 +1,15 @@
 ---
-title: "srb data collection"
+title: "SRB Data Collection"
 ---
 
-## background
+## Background
 
-I work at UCSB's Student Resource Building Front Desk as a student assistant and supervisor. This means that I field a lot of questions from students and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us, and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times.
+I work at UCSB's Student Resource Building Front Desk as a student assistant and supervisor. Here, I field a lot of questions from students, staff, and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times. 
 
-## data visualization timeline
+## Data Collection & Study Design
+
+
+## Data Visualization Timeline
 
 ### April 24, 2024
 
@@ -32,19 +35,19 @@ I work at UCSB's Student Resource Building Front Desk as a student assistant and
 
 ![](images/Screenshot%202024-06-04%20222642.png){fig-align="center"}
 
-### a note on data collection
+### A note on data collection
 
 My data was collected during times I was present at the desk, whether that be visiting or covering or working my regular shifts. As we have fixed schedules throughout the quarter, and I work two closing shifts, and one 3-6 every week, my observations for these time slots are much higher than other shift times. Data from other shift times, like the 12-3 and 6-9, were typically observed when I would visit the desk or arrive early for a shift. I worked around this issue in a few different ways, which are displayed below!
 
-## different data visualizations
+## Different Data Visualizations
 
-### recurring shifts only
+### Recurring shifts only
 
 **Figure 5. Most common reason for approaching the desk during recurring shifts.** This visualization filtered out any observations taken during times I was not scheduled to work at the desk - only keeping Monday and Wednesday closing, and Friday 3-6 observations. This ensures that the times of data collection are the same week to week. The most interesting part of this visualization is that, even though I work more closing shifts per week, more people approach the desk during the 3-6 shift! I also think the difference between people asking for directions within the building during closing and the 3-6 is interesting as well!
 
 ![](images/Screenshot%202024-06-04%20231044.png){fig-align="center"}
 
-### spring quarter timeline
+### Spring quarter timeline
 
 **Figure 6. Amount of questions asked throughout spring quarter.** This visualization uses week number instead of shift time as the x-axis, and only includes data from my scheduled weekly shifts. This visualization addresses the discrepancy in observations for each shift time, as it only includes data from my recurring shifts each week. My favorite part of this figure is the clear decrease in questions as the quarter progresses. Though my own personal experience, I've noticed this trend of students generally figuring things out around week 5 and asking less questions, but having the observations and data to support that claim is really cool! This visualization is definitely my favorite, and the one I'm most proud of!
 

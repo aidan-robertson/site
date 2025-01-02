@@ -5,10 +5,11 @@ project:
 website:
   favicon: images/Aidan Robertson.png
   navbar:
-   title: "aidan robertson"
+   title: "Aidan Robertson"
    right:
       - href: index.qmd
-        text: home
+        text: Home
+      - thesis.qmd
       - fieldwork.qmd
       - srb.qmd
       - music.qmd
@@ -19,7 +20,7 @@ website:
 format:
   html:
     theme:
-      - quartz
+      - united
       - styles.scss
     mainfont: Sen
     toc: true

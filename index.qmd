@@ -1,5 +1,5 @@
 ---
-title: "aidan robertson"
+title: "Aidan Robertson"
 image: images/headshot-02.JPG
 toc: false
 about:
@@ -7,27 +7,34 @@ about:
   image-shape: round
   image-width: 20em
   links: 
-    - text: github
+    - text: GitHub
       href: https://github.com/aidan-robertson
       icon: "github"
-    - text: linkedin
+      target: _blank
+    - text: LinkedIn
       href: https://www.linkedin.com/in/am-robertson/
       icon: "linkedin"
-    - text: email
-      href: mailto::aidanrobertson@ucsb.edu
+      target: _blank
+    - text: Email
+      href: mailto::aidanrobertson21@gmail.com
       icon: "envelope"
+      target: _blank
+    - text: CV
+      href: https://drive.google.com/file/d/1tJnh8d0P7UeEFeS3A41B7q5tuZ1SXbZo/view?usp=sharing
+      icon: "file-earmark-text"
+      target: _blank
 ---
 
-## about me!
+## About Me!
 
-Hi! I'm Aidan - a third year undergraduate at UC Santa Barbara double majoring in environmental studies and geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I work at the front desk for the Student Resource Building on campus where I get to work with an awesome student staff team and help students find the resources they need. I love watching movies with my friends, baking, obsessing over my Google Calendar, and a good spreadsheet!
+Hi! I'm Aidan - a fourth year undergraduate at UC Santa Barbara double majoring in Environmental Studies and Geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I work at the front desk for the Student Resource Building on campus where I get to work with an awesome student staff team and help students find the resources they need. I love watching movies with my friends, baking, obsessing over my Google Calendar, and a good spreadsheet!
 
-## education
+## Education
 
 University of California, Santa Barbara – Environmental Studies & Geography, B.A. (Expected June 2025)
 
-## current positions
+## Current Positions
 
-**Restoration Ecology Intern –** Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara; January 2024-present
+**Restoration Ecology Student Worker –** Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara; January2024-June 2024 (Restoration Ecology Intern), June 2024-present (Restoration Ecology Student Worker)
 
 **SRB Front Desk Student Assistant/Supervisor –** Student Resource Building, University of California, Santa Barbara; September 2022-September 2023 (Student Assistant), September 2023-present (Student Supervisor)
