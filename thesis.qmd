@@ -1,5 +1,5 @@
 ---
-title: "Senior Thesis"
+title: "Senior Thesis - WIP"
 ---
 ## Abstract
 Coastal sage scrub is a largely degraded and threatened plant community in California. Most of its former range has been subjected to urban development, agriculture, and non-native grass invasion. This thesis seeks to compare coastal sage scrub restoration strategies, using prescribed fire, grass-specific herbicide (clethodim), thatch clearing, and two wildflower seeding rates in a field experiment to determine the most effective combination in increasing native cover and decreasing non-native cover. The wildflower seeding rates measured three coastal sage scrub wildflowers: *Calandrinia menzisii* (redmaids), *Phacelia distans* (distant phacelia), and *Clarkia purpurea* (winecup clarkia). This thesis also examines the effect of variations in heat exposure and fire temperature on two non-native forbs that are common secondary invaders: *Lysimachia arvensis* (scarlet pimpernel) and *Silene gallica* (windmill pink).

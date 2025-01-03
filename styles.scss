@@ -33,14 +33,15 @@ h1, h2 {
   font-weight: 400;
   color: $green;
 }
-h3, h4, h5, h6{letter-spacing: 3px;
+h3, h4, h5, h6{
+  letter-spacing: 3px;
   font-weight: 300;
 }
 .title {
   color: $orange;
 }
 .navbar-brand img { 
-  max-height: 40px;
+  max-height: 35px;
   width: auto;
 }
 
