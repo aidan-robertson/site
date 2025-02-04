@@ -10,7 +10,7 @@ website:
    right:
       - href: index.qmd
         text: Home
-      - thesis.qmd
+     # - thesis.qmd
       - fieldwork.qmd
       - srb.qmd
       - music.qmd
