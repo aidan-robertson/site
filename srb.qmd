@@ -2,12 +2,9 @@
 title: "SRB Data Collection"
 ---
 
-## Background
+## Background & Study Design
 
-I work at UCSB's Student Resource Building Front Desk as a student assistant and supervisor. Here, I field a lot of questions from students, staff, and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS, we were tasked with collecting data on something that mattered to us and analyzing it, so I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables. My core question was determining the most common reason people approach the desk, which I visualized with different shift times. 
-
-## Data Collection & Study Design
-
+I work at UCSB's Student Resource Building Front Desk as a student assistant and supervisor. Here, I field a lot of questions from students, staff, and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS (Statistics for the Environmental Sciences), we were tasked with creating a research question surrounding something that mattered to us, collecting data, and analyzing it throughout the quarter. My core question was determining the most common reason people approach the SRB front desk. I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables, which I collected while I worked in a spreadsheet. The below visualizations map my progress through the quarter as I learned R and collected more data. 
 
 ## Data Visualization Timeline
 

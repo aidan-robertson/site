@@ -47,21 +47,21 @@ Though this site is technically finished in its restoration, it still gets some 
 ## Other Cool Stuff
 
 ::: {layout-ncol="2"}
-![Me flame weeding!](images/PXL_20240227_215124531.jpg){group="cool" description="Me flame weeding!"}
+![Me flame weeding!](images/PXL_20240227_215124531.jpg){group="cool"}
 
-![Flame weeded plots](images/20240227_141110.jpg){group="cool" description="Flame weeded plots."}
+![Flame weeded plots](images/20240227_141110.jpg){group="cool"}
 :::
 
 ::: {layout-ncol="3"}
-![Henley Gate](images/bereal-2024-03-12-0220-01.jpeg){group="cool" description="Henley Gate."}
+![Henley Gate](images/bereal-2024-03-12-0220-01.jpeg){group="cool"}
 
-![West Depression](images/20240521_143913.jpg){group="cool" description="West Depression."}
+![West Depression](images/20240521_143913.jpg){group="cool"}
 
-![Lagoon Island](images/20240520_141623-01.jpg){group="cool" description="Lagoon Island."}
+![Lagoon Island](images/20240520_141623-01.jpg){group="cool"}
 :::
 
 ::: {layout-ncol="2"}
-![Huge bermuda buttercup from Lagoon Island](images/PXL_20240314_221742322.jpg){group="cool" description="Huge bermuda buttercup frm Lagoon Island."}
+![Huge bermuda buttercup from Lagoon Island](images/PXL_20240314_221742322.jpg){group="cool"}
 
-![Bermuda buttercup hole](images/20240314_151119.jpg){group="cool" description="Bermuda buttercup hole."}
+![Bermuda buttercup hole](images/20240314_151119.jpg){group="cool"}
 :::

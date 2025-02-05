@@ -10,10 +10,9 @@ website:
    right:
       - href: index.qmd
         text: Home
-     # - thesis.qmd
+      - cert.qmd
       - fieldwork.qmd
       - srb.qmd
-      - music.qmd
       - icon: github
         href: https://github.com/aidan-robertson
         target: _blank
