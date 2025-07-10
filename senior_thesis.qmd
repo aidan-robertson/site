@@ -1,0 +1,5 @@
+---
+title: "Senior Thesis"
+---
+for hiding/showing/folding code
+https://quarto.org/docs/output-formats/html-code.html
