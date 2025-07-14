@@ -1,0 +1,28 @@
+---
+title: "Community Emergency Response Team"
+description: "Disaster preparedness training"
+author: 
+  - Aidan Robertson
+  - url: https://github.com/aidan-robertson
+date: February 2, 2025
+categories: [UCSB]
+image: cert-cribbing1.jpg
+fiters:
+  - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+---
+Community Emergency Response Team (CERT) program is a FEMA program which educates volunteers on disaster preparedness. In California, training focuses on preparation for earthquakes and wildfires. In addition to disaster awareness and preparedness, CERT members are also educated in fire safety, light search and rescue, disaster medical operations and triage protocols, and team organization. I obtained my CERT training through UCSB's CERT Club, in collaboration with the Campus Emergency Manager and Santa Barbara County Fire Station #17, over the course of three days.
+
+::: {layout-ncol="2"}
+![Using a fire extinguisher](cert-fire-extinguisher.jpg){group="cert"}
+
+![Cribbing to remove a trapped victim](cert-cribbing1.jpg){group="cert"}
+
+![Cribbing to remove a trapped victim](cert-cribbing2.jpg){group="cert"}
+
+![Checking on a victim](cert-victim.jpg){group="cert"}
+:::

@@ -10,9 +10,14 @@ website:
    right:
       - href: index.qmd
         text: Home
-      - cert.qmd
-      - fieldwork.qmd
-      - srb.qmd
+      #- text: Research
+        #href: research.qmd
+      - text: Projects
+        href: posts.qmd
+      - text: Fieldwork
+        href: fieldwork.qmd
+      - text: CV
+        href: https://drive.google.com/file/d/1_E1vP0ab80XiTt3xg7NPmQwO4d6nfOzp/view?usp=sharing
       - icon: github
         href: https://github.com/aidan-robertson
         target: _blank

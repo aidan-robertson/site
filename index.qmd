@@ -1,6 +1,6 @@
 ---
 title: "Aidan Robertson"
-image: images/headshot-02.JPG
+image: images/aidan-grad.jpg
 toc: false
 about:
   template: trestles
@@ -19,8 +19,6 @@ about:
       href: mailto::aidanrobertson21@gmail.com
       icon: "envelope"
       target: _blank
-    - text: CV
-      href: https://drive.google.com/file/d/1tJnh8d0P7UeEFeS3A41B7q5tuZ1SXbZo/view?usp=sharing
       icon: "file-earmark-text"
       target: _blank
 ---

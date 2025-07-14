@@ -1,0 +1,67 @@
+---
+title: "SRB Data Collection"
+subtitle: "Course: Statistics for Environmental Science"
+description: "Personal data collection project"
+author: 
+  - Aidan Robertson
+  - url: https://github.com/aidan-robertson
+date: June 3, 2024
+categories: [R, UCSB]
+image: srb-by-week.png
+---
+
+## Context
+
+In my university course *Statistics for Environmental Science*, we were tasked with formulating a research question centered on something that mattered to us, designing and collecting data, and visualizing this data throughout the course. This allowed me to both gain experience with data collection and visualization, as well as track my progress working in R, as this course was my first exposure to using R!
+
+At the time, I worked at UC Santa Barbara's Student Resource Building Front Desk as a student assistant and supervisor, which served as a hub for student life. I fielded questions from students, staff, and building patrons on many topics (things like directions, technology help, and using desk services like the stapler), and wanted to determine the most common reason people approached the SRB Front Desk. I decided to keep track of each time someone approached the desk, collecting information on the date, time, and reason for approaching. The following visualizations map my progress throughout the quarter and contain reflections on my progress!
+
+### A note on organization
+
+-   Shift time: I decided to collect and organize my data based on shift, rather than specific time for each request to make collection simpler. The shifts, thus, are named Opening (8:45AM-12PM), 12-3PM, 3-6PM, 6-9PM, and Closing (9PM-12AM) to be consistent with standard shift times. The later addition of Other (Weekend) denote any shifts I worked on Saturday or Sunday which do not follow the standard shift times.
+
+-   Reason: The categories I created for reason for approaching the desk were based on my experience at the desk. Space reservation refers to any questions regarding reservable spaces within the building (such as the Multipurpose Room) that the front desk manages. Campus directions refers to any questions regarding finding a building on campus, but not within the building itself. Technology help refers to questions regarding assistance with projectors, speakers, and microphones within reservable spaces. SRB Directions refers to questions regarding finding spaces within the building. Desk services was used to categorize any other reason for approaching, mostly to do with services such as staplers, paper, and blue books. Other refers to reasons out of the norm that did not fit within the specified categories.
+
+## Data Visualization Timeline
+
+### April 24, 2024
+
+**Figure 1.** This was my first time working with my data. The figure that made the most sense for me to create was a bar chart. In creating this, I was able to learn how to change the colors of my variables! Unfortunately, I was not able to figure out how to order my x-axis, so the shift times were out of order. For the amount of data that I had, a grouped bar chart made sense, but I did later change the figure I was creating.
+
+![](4-24-24.png){fig-align="center" width="528"}
+
+### April 26, 2024
+
+**Figure 2.** This figure was my first venture in displaying my data in a stacked bar chart. Because of the number of reasons and shift times, I wanted my figure to be less cluttered, which the grouped bar chart definitely was! I pivoted to a stacked bar chart, but decided against a percentage bar chart to show the count of my observations. I was also able to figure out how to order my x-axis and variables, and changed the color palette. The code I wrote for this visualization stayed relatively the same throughout the rest of my visualizations.
+
+![](4-26-24.png){fig-align="center"}
+
+### May 8, 2024
+
+**Figure 3.** The most visible change between this visualization and the last was the addition of observations for the 6-9 and weekend shifts. In order to accommodate these changes, I needed to add more color options and reorder my reasons.
+
+![](5-8-24.png){fig-align="center"}
+
+### June 3, 2024
+
+**Figure 4.** The most obvious change is the increase in observations for the 3-6 and closing shifts, which dwarf all other shift times. I explain this discrepancy in the note below. 
+
+![](6-3-24.png){fig-align="center"}
+
+### A note on data collection
+
+My data was collected during times I was present at the desk, whether that be visiting or covering or working my regular shifts. As I had a fixed schedule throughout the quarter, I worked two closing shifts, and one 3-6 every week, and thus my observations for these time slots were much higher than other shift times. Data from other shift times, like the 12-3 and 6-9, were typically observed when I would visit the desk or arrive early for a shift. I worked around this issue in a few different ways, which are displayed below!
+
+## Different Data Visualizations
+
+### Recurring shifts only
+
+**Figure 5. Most common reason for approaching the desk during recurring shifts.** This visualization filtered out any observations taken during times I was not scheduled to work at the desk - only keeping Monday and Wednesday closing, and Friday 3-6 observations. This ensures that the times of data collection are the same week to week. The most interesting part of this visualization is that, even though I work more closing shifts per week, more people approach the desk during the 3-6 shift! I also think the difference between people asking for directions within the building during closing and the 3-6 is interesting as well!
+
+![](recurring-shifts.png){fig-align="center"}
+
+### Spring quarter timeline
+
+**Figure 6. Amount of questions asked throughout spring quarter.** This visualization uses week number instead of shift time as the x-axis, and only includes data from my scheduled weekly shifts. This visualization addresses the discrepancy in observations for each shift time, as it only includes data from my recurring shifts each week. My favorite part of this figure is the clear decrease in questions as the quarter progresses. Though my own personal experience, I noticed this trend of students generally figuring things out around week 5 and asking less questions, but having the observations and data to support that claim is really cool! This visualization is definitely my favorite, and the one I'm most proud of!
+
+![](srb-by-week.png){fig-align="center"}

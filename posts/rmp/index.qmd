@@ -1,0 +1,14 @@
+---
+title: "Restoration Master Plan"
+subtitle: "Course: Foundations for Ecosystem Restoration"
+description: "A proposed plan for the restoration of Lake Los Carneros in Goleta, CA"
+author: 
+  - Aidan Robertson
+  - url: https://github.com/aidan-robertson
+date: June 11, 2024
+categories: [Report, UCSB]
+image: lake-los-carneros.jpg
+---
+Working in a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding.
+
+{{< pdf lake-los-carneros-rmp.pdf width=100% height=800>}}
