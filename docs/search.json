@@ -1,38 +1,10 @@
 [
   {
-    "objectID": "srb.html",
-    "href": "srb.html",
-    "title": "SRB Data Collection",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "I work at UCSB’s Student Resource Building Front Desk as a student assistant and supervisor. Here, I field a lot of questions from students, staff, and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS (Statistics for the Environmental Sciences), we were tasked with creating a research question surrounding something that mattered to us, collecting data, and analyzing it throughout the quarter. My core question was determining the most common reason people approach the SRB front desk. I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables, which I collected while I worked in a spreadsheet. The below visualizations map my progress through the quarter as I learned R and collected more data."
-  },
-  {
-    "objectID": "srb.html#background-study-design",
-    "href": "srb.html#background-study-design",
-    "title": "SRB Data Collection",
-    "section": "",
-    "text": "I work at UCSB’s Student Resource Building Front Desk as a student assistant and supervisor. Here, I field a lot of questions from students, staff, and building patrons about things such as the location of services within the building, office supplies, and space reservations within the building. In ENV S 193DS (Statistics for the Environmental Sciences), we were tasked with creating a research question surrounding something that mattered to us, collecting data, and analyzing it throughout the quarter. My core question was determining the most common reason people approach the SRB front desk. I decided to keep track of every time someone approached the desk, along with the week, shift time, and reason among many other variables, which I collected while I worked in a spreadsheet. The below visualizations map my progress through the quarter as I learned R and collected more data."
-  },
-  {
-    "objectID": "srb.html#data-visualization-timeline",
-    "href": "srb.html#data-visualization-timeline",
-    "title": "SRB Data Collection",
-    "section": "Data Visualization Timeline",
-    "text": "Data Visualization Timeline\n\nApril 24, 2024\nFigure 1. This was my first time working with my data. The figure that made the most sense for me to create was a bar chart. In creating this, I was able to learn how to change the colors of my variables! Unfortunately, I was not able to figure out how to order my x-axis, so the shift times were out of order. For the amount of data that I had, a grouped bar chart made sense, but I did later change the figure I was creating.\n\n\n\n\n\n\n\nApril 26, 2024\nFigure 2. This figure was my first venture in displaying my data in a stacked bar chart. Because of the amount of reasons, and shift times, I wanted my figure to be less cluttered, which the grouped bar chart definitely was! I pivoted to a stacked bar chart, but decided against a percentage bar chart to show the count of my observations. I was also able to figure out how to order my x-axis and variables, and changed the color palette. The code I wrote for this visualization stayed relatively the same throughout the rest of my visualizations.\n\n\n\n\n\n\n\nMay 8, 2024\nFigure 3. The most visible change between this visualization and the last was the addition of observations for the 6-9 and weekend shifts. In order to accommodate these changes, I needed to add more color options and reorder my reasons.\n\n\n\n\n\n\n\nJune 3, 2024\nFigure 4. This is the most recent visualization of my collected data. The most obvious change is the increase in observations for the 3-6 and closing shifts, which dwarf all other shift times. I explain this discrepancy in the note below. Generally, though, I am very happy with this visualization!\n\n\n\n\n\n\n\nA note on data collection\nMy data was collected during times I was present at the desk, whether that be visiting or covering or working my regular shifts. As we have fixed schedules throughout the quarter, and I work two closing shifts, and one 3-6 every week, my observations for these time slots are much higher than other shift times. Data from other shift times, like the 12-3 and 6-9, were typically observed when I would visit the desk or arrive early for a shift. I worked around this issue in a few different ways, which are displayed below!"
-  },
-  {
-    "objectID": "srb.html#different-data-visualizations",
-    "href": "srb.html#different-data-visualizations",
-    "title": "SRB Data Collection",
-    "section": "Different Data Visualizations",
-    "text": "Different Data Visualizations\n\nRecurring shifts only\nFigure 5. Most common reason for approaching the desk during recurring shifts. This visualization filtered out any observations taken during times I was not scheduled to work at the desk - only keeping Monday and Wednesday closing, and Friday 3-6 observations. This ensures that the times of data collection are the same week to week. The most interesting part of this visualization is that, even though I work more closing shifts per week, more people approach the desk during the 3-6 shift! I also think the difference between people asking for directions within the building during closing and the 3-6 is interesting as well!\n\n\n\n\n\n\n\nSpring quarter timeline\nFigure 6. Amount of questions asked throughout spring quarter. This visualization uses week number instead of shift time as the x-axis, and only includes data from my scheduled weekly shifts. This visualization addresses the discrepancy in observations for each shift time, as it only includes data from my recurring shifts each week. My favorite part of this figure is the clear decrease in questions as the quarter progresses. Though my own personal experience, I’ve noticed this trend of students generally figuring things out around week 5 and asking less questions, but having the observations and data to support that claim is really cool! This visualization is definitely my favorite, and the one I’m most proud of!"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "srb data collection mock testimony restoration master plan topic paper? field studies presentation gis group proj silene gallica\nuse for fieldwork map library(leaflet) leaflet() %&gt;% addTiles() %&gt;% # Add default OpenStreetMap map tiles addMarkers(lng=174.768, lat=-36.852, popup=“The birthplace of R”)"
+    "text": "IN PROGRESS\nfor hiding/showing/folding code https://quarto.org/docs/output-formats/html-code.html"
   },
   {
     "objectID": "posts/srb/index.html",
@@ -91,62 +63,6 @@
     "text": "Albums I Like\n\n\n\n\n\n\nCtrl (Deluxe) by SZA\n\n\n\nModels by Wallows\n\n\n\n\n\nThe Rise and Fall of a Midwest Princess by Chappell Roan\n\n\n\nAmerican Idiot by Green Day"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Aidan Robertson",
-    "section": "",
-    "text": "Hi! I’m Aidan - a recent graduate from UC Santa Barbara. I’m interested in fire ecology and ecosystem restoration, and completed a senior research thesis on restoring native wildflowers to invasive grasslands as a transitional stage in restoring to coastal sage scrub. I love watching movies with my friends, spending time outdoors, obsessing over my Google Calendar, and a good spreadsheet!"
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Aidan Robertson",
-    "section": "",
-    "text": "Hi! I’m Aidan - a recent graduate from UC Santa Barbara. I’m interested in fire ecology and ecosystem restoration, and completed a senior research thesis on restoring native wildflowers to invasive grasslands as a transitional stage in restoring to coastal sage scrub. I love watching movies with my friends, spending time outdoors, obsessing over my Google Calendar, and a good spreadsheet!"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Aidan Robertson",
-    "section": "Education",
-    "text": "Education\nJune 2025 | University of California, Santa Barbara – Environmental Studies & Geography, B.A."
-  },
-  {
-    "objectID": "index.html#current-positions",
-    "href": "index.html#current-positions",
-    "title": "Aidan Robertson",
-    "section": "Current Positions",
-    "text": "Current Positions\nRestoration Ecology Student Worker – Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara; January 2024-June 2024 (Restoration Ecology Intern), June 2024-present (Restoration Ecology Student Worker)\nSRB Front Desk Student Assistant/Supervisor – Student Resource Building, University of California, Santa Barbara; September 2022-September 2023 (Student Assistant), September 2023-present (Student Supervisor)"
-  },
-  {
-    "objectID": "cert.html",
-    "href": "cert.html",
-    "title": "Notable Experience",
-    "section": "",
-    "text": "Foundations of Ecosystem Restoration Restoration Master Plan\nWorking with a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding.\nField Studies of California’s Coast Mapping the Change, Form, and Function of the Carpinteria Salt Marsh Reserve\nAs an individual segment of a larger group project focusing on Carpinteria Salt Marsh UC Natural Reserve (CSMR), I established a baseline understanding of salt marsh processes and function. Referencing historical t-sheets, I analyzed change in salt marsh cover in California from 1850 to the present. I also explored past and current restoration of CSMR, working to frame my partner’s geomorphic change detection map depicting the change in elevation before and after the 2018 Montecito Debris Flow following the 2017 Thomas Fire.\nAmerica’s Public Lands and Waters: Law and Policy Public Testimony\nWorking with a classmate, we wrote a 16-page mock testimony to Congress exploring and addressing the issue of overtourism in the National Parks. We then gave oral testimony and addresses questions from professor and peers. We suggested implementing a policy requiring all national parks to consider integrating visitor management plans into their general management plans as a potential solution to the issue of overtourism."
-  },
-  {
-    "objectID": "cert.html#notable-coursework",
-    "href": "cert.html#notable-coursework",
-    "title": "Notable Experience",
-    "section": "",
-    "text": "Foundations of Ecosystem Restoration Restoration Master Plan\nWorking with a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding.\nField Studies of California’s Coast Mapping the Change, Form, and Function of the Carpinteria Salt Marsh Reserve\nAs an individual segment of a larger group project focusing on Carpinteria Salt Marsh UC Natural Reserve (CSMR), I established a baseline understanding of salt marsh processes and function. Referencing historical t-sheets, I analyzed change in salt marsh cover in California from 1850 to the present. I also explored past and current restoration of CSMR, working to frame my partner’s geomorphic change detection map depicting the change in elevation before and after the 2018 Montecito Debris Flow following the 2017 Thomas Fire.\nAmerica’s Public Lands and Waters: Law and Policy Public Testimony\nWorking with a classmate, we wrote a 16-page mock testimony to Congress exploring and addressing the issue of overtourism in the National Parks. We then gave oral testimony and addresses questions from professor and peers. We suggested implementing a policy requiring all national parks to consider integrating visitor management plans into their general management plans as a potential solution to the issue of overtourism."
-  },
-  {
-    "objectID": "cert.html#cert-training",
-    "href": "cert.html#cert-training",
-    "title": "Notable Experience",
-    "section": "CERT Training",
-    "text": "CERT Training\nCommunity Emergency Response Team (CERT) program is a FEMA program which educates volunteers on disaster preparedness. For California, training focuses on preparation for earthquakes and wildfires. In addition to disaster awareness and preparedness, CERT members are also educated in fire safety, light search and rescue, disaster medical operations and triage protocols, and team organization. I obtained my CERT training through UCSB’s CERT club, in collaboration with the Campus Emergency Manager and Santa Barbara County Fire Station #17, over the course of three days.\n\n\n\n\n\n\n\n\n\nUsing a fire extinguisher\n\n\n\n\n\n\n\nCribbing to remove a trapped victim\n\n\n\n\n\n\n\nChecking on a victim"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "about",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "fieldwork.html",
     "href": "fieldwork.html",
     "title": "Fieldwork",
@@ -168,32 +84,32 @@
     "text": "Other Cool Stuff\n\n\n\n\n\n\n\n\n\nMe flame weeding!\n\n\n\n\n\n\n\nFlame weeded plots\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHenley Gate\n\n\n\n\n\n\n\nWest Depression\n\n\n\n\n\n\n\nLagoon Island\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHuge bermuda buttercup from Lagoon Island\n\n\n\n\n\n\n\nBermuda buttercup hole"
   },
   {
-    "objectID": "movies.html",
-    "href": "movies.html",
-    "title": "movies",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
     "section": "",
-    "text": "One of my favorite things to do with my roommates is watch movies! Whenever we have a free evening, we like to make dinner and put on a movie or show to watch."
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "movies.html#why",
-    "href": "movies.html#why",
-    "title": "movies",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aidan Robertson",
     "section": "",
-    "text": "One of my favorite things to do with my roommates is watch movies! Whenever we have a free evening, we like to make dinner and put on a movie or show to watch."
+    "text": "Hi! I’m Aidan - a recent graduate from UC Santa Barbara. I’m interested in fire ecology and ecosystem restoration, and completed a senior research thesis on restoring native wildflowers to invasive grasslands as a transitional stage in restoring to coastal sage scrub. I love watching movies with my friends, spending time outdoors, obsessing over my Google Calendar, and a good spreadsheet!"
   },
   {
-    "objectID": "movies.html#recent-watches",
-    "href": "movies.html#recent-watches",
-    "title": "movies",
-    "section": "recent watches!",
-    "text": "recent watches!\n\n\n\n\n\n\n\n\n\nChallengers (2024)\n\n\n\n\n\n\n\nBottoms (2023)\n\n\n\n\n\n\n\n\n\nTrolls Band Together (2023)\n\n\n\n\n\n\n\nThe Lego Ninjago Movie (2017)"
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Aidan Robertson",
+    "section": "",
+    "text": "Hi! I’m Aidan - a recent graduate from UC Santa Barbara. I’m interested in fire ecology and ecosystem restoration, and completed a senior research thesis on restoring native wildflowers to invasive grasslands as a transitional stage in restoring to coastal sage scrub. I love watching movies with my friends, spending time outdoors, obsessing over my Google Calendar, and a good spreadsheet!"
   },
   {
-    "objectID": "movies.html#my-letterboxd",
-    "href": "movies.html#my-letterboxd",
-    "title": "movies",
-    "section": "my letterboxd",
-    "text": "my letterboxd\n\n\n\n\n\nChallengers (2024)\n\n\nBottoms (2023)\n\n\nTrolls Band Together (2023)\n\n\nThe Lego Ninjago Movie (2017)"
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Aidan Robertson",
+    "section": "Education",
+    "text": "Education\nJune 2025 | University of California, Santa Barbara – Environmental Studies & Geography, B.A."
   },
   {
     "objectID": "posts/cert/index.html",
@@ -207,7 +123,7 @@
     "href": "posts/rmp/index.html",
     "title": "Restoration Master Plan",
     "section": "",
-    "text": "Working in a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding.\nDownload PDF file."
+    "text": "Working in a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding."
   },
   {
     "objectID": "posts.html",
@@ -215,12 +131,5 @@
     "title": "Projects",
     "section": "",
     "text": "Community Emergency Response Team\n\n\n\nUCSB\n\n\n\nDisaster preparedness training\n\n\n\nAidan Robertson\n\n\nFeb 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRestoration Master Plan\n\n\n\nReport\n\n\nUCSB\n\n\n\nA proposed plan for the restoration of Lake Los Carneros in Goleta, CA\n\n\n\nAidan Robertson\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSRB Data Collection\n\n\n\nR\n\n\nUCSB\n\n\n\nPersonal data collection project\n\n\n\nAidan Robertson\n\n\nJun 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublic Testimony\n\n\n\nReport\n\n\nUCSB\n\n\n\nAddressing overtourism in the National Parks\n\n\n\nAidan Robertson\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "IN PROGRESS\nfor hiding/showing/folding code https://quarto.org/docs/output-formats/html-code.html"
   }
 ]

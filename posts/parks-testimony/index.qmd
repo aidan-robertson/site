@@ -12,5 +12,7 @@ image: traffic.png
 Working with a classmate, we wrote a 16-page mock testimony to Congress exploring and addressing the issue of overtourism in the National Parks. We then gave oral testimony and addresses questions from professor and peers. We suggested implementing a policy requiring all national parks to consider integrating visitor management plans into their general management plans as a potential solution to the issue of overtourism.
 
 ```{=html}
-<embed src="posts/parks-testimony/written-testimony.pdf" width="800px" height="2100px"/>
+<iframe src="https://drive.google.com/file/d/1VhFk1MhbRI4Qc69W_I5Gr_UkJfgGlah7/preview" 
+style="width:600px; height:500px;" 
+frameborder="0"></iframe>
 ```
