@@ -19,20 +19,13 @@ about:
       href: mailto::aidanrobertson21@gmail.com
       icon: "envelope"
       target: _blank
-      icon: "file-earmark-text"
-      target: _blank
 ---
 
 ## About Me!
 
-Hi! I'm Aidan - a fourth year undergraduate at UC Santa Barbara double majoring in Environmental Studies and Geography. I'm really interested in controlled burns as a tool for restoration, and am looking forward to engaging in some research on UCSB's own Lagoon Island this summer! I work at the front desk for the Student Resource Building on campus where I get to work with an awesome student staff team and help students find the resources they need. I love watching movies with my friends, baking, obsessing over my Google Calendar, and a good spreadsheet!
+Hi! I'm Aidan - a recent graduate from UC Santa Barbara. I'm interested in fire ecology and ecosystem restoration, and completed a senior research thesis on restoring native wildflowers to invasive grasslands as a transitional stage in restoring to coastal sage scrub. I love watching movies with my friends, spending time outdoors, obsessing over my Google Calendar, and a good spreadsheet!
 
 ## Education
 
-University of California, Santa Barbara – Environmental Studies & Geography, B.A. (Expected June 2025)
+June 2025 | University of California, Santa Barbara – Environmental Studies & Geography, B.A.
 
-## Current Positions
-
-**Restoration Ecology Student Worker –** Cheadle Center for Biodiversity and Ecosystem Restoration, University of California, Santa Barbara; January 2024-June 2024 (Restoration Ecology Intern), June 2024-present (Restoration Ecology Student Worker)
-
-**SRB Front Desk Student Assistant/Supervisor –** Student Resource Building, University of California, Santa Barbara; September 2022-September 2023 (Student Assistant), September 2023-present (Student Supervisor)
