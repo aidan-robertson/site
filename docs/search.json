@@ -7,6 +7,13 @@
     "text": "Understanding the Effect of Exposure to Prescribed Fire on Germination of Windmill Pink (Silene Gallica)\n\n\n\nFire\n\n\nR\n\n\nUCSB\n\n\n\nAn experiment utilizing conductive heat to simulate fire at different temperatures and times of exposure\n\n\n\nAidan Robertson\n\n\nMay 30, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMaximizing California Native Wildflower Establishment in Invasive Annual Grassland Restoration\n\n\n\nRestoration\n\n\nFire\n\n\nR\n\n\nUCSB\n\n\n\nA transitional stage in coastal sage scrub restoration\n\n\n\nAidan Robertson\n\n\nMay 30, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
+    "objectID": "research/siga/index.html",
+    "href": "research/siga/index.html",
+    "title": "Understanding the Effect of Exposure to Prescribed Fire on Germination of Windmill Pink (Silene Gallica)",
+    "section": "",
+    "text": "Flat of treated windmill pink germinants\n\n\nPrescribed fire is a powerful tool in restoration it removes built up plant material and kills invasive grass seeds at high temperatures. Research on the lethal temperature and time of exposure has been conducted for common invasive grasses and some thistles, and is an important consideration when planning prescribed fires for the purpose of removing invasive species.\nMy research aims to understand the relationship between time of exposure and temperature on the germination of the common non-native forb windmill pink (Silene gallica). I treated seeds to three temperatures (150, 200, and 240°C) for three time periods (30 seconds, 1 minute, 1.5 minutes) to simulate exposure to convective heat within the soil. I then placed each replicate in a pot with soil to germinate, and counted each germinant to determine the effect of each treatment. Analysis is still in progress, but preliminary visualizations show that temperatures of 200°C and higher result in significantly lower germination at all exposure times.\n\n\n\nLinear regression depicting the relationship between exposure time and germinants at each exposure temperature"
+  },
+  {
     "objectID": "posts/srb/index.html",
     "href": "posts/srb/index.html",
     "title": "SRB Data Collection",
@@ -35,32 +42,25 @@
     "text": "Different Data Visualizations\n\nRecurring shifts only\nFigure 5. Most common reason for approaching the desk during recurring shifts. This visualization filtered out any observations taken during times I was not scheduled to work at the desk - only keeping Monday and Wednesday closing, and Friday 3-6 observations. This ensures that the times of data collection are the same week to week. The most interesting part of this visualization is that, even though I work more closing shifts per week, more people approach the desk during the 3-6 shift! I also think the difference between people asking for directions within the building during closing and the 3-6 is interesting as well!\n\n\n\n\n\n\n\nSpring quarter timeline\nFigure 6. Amount of questions asked throughout spring quarter. This visualization uses week number instead of shift time as the x-axis, and only includes data from my scheduled weekly shifts. This visualization addresses the discrepancy in observations for each shift time, as it only includes data from my recurring shifts each week. My favorite part of this figure is the clear decrease in questions as the quarter progresses. Though my own personal experience, I noticed this trend of students generally figuring things out around week 5 and asking less questions, but having the observations and data to support that claim is really cool! This visualization is definitely my favorite, and the one I’m most proud of!"
   },
   {
-    "objectID": "posts/parks-testimony/index.html",
-    "href": "posts/parks-testimony/index.html",
-    "title": "Public Testimony",
+    "objectID": "posts/rmp/index.html",
+    "href": "posts/rmp/index.html",
+    "title": "Restoration Master Plan",
     "section": "",
-    "text": "Working with a classmate, we wrote a 16-page mock testimony to Congress exploring and addressing the issue of overtourism in the National Parks. We then gave oral testimony and addresses questions from professor and peers. We suggested implementing a policy requiring all national parks to consider integrating visitor management plans into their general management plans as a potential solution to the issue of overtourism."
+    "text": "Working in a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding."
   },
   {
-    "objectID": "music.html",
-    "href": "music.html",
-    "title": "Music",
+    "objectID": "posts/cert/index.html",
+    "href": "posts/cert/index.html",
+    "title": "Community Emergency Response Team",
     "section": "",
-    "text": "Some of my favorite things to do are making Spotify playlists and listening to albums! Sharing good music is definitely a love language of mine, and I love getting new recommendations from my friends. I have a soft spot in my heart for pop music, but my true for-lifer is Green Day (since 7th grade!). Whether I’m biking to class, doing the dishes, or sitting down to work on my assignments, there’s always something playing."
+    "text": "Community Emergency Response Team (CERT) program is a FEMA program which educates volunteers on disaster preparedness. In California, training focuses on preparation for earthquakes and wildfires. In addition to disaster awareness and preparedness, CERT members are also educated in fire safety, light search and rescue, disaster medical operations and triage protocols, and team organization. I obtained my CERT training through UCSB’s CERT Club, in collaboration with the Campus Emergency Manager and Santa Barbara County Fire Station #17, over the course of three days.\n\n\n\n\n\n\n\n\n\nUsing a fire extinguisher\n\n\n\n\n\n\n\nCribbing to remove a trapped victim\n\n\n\n\n\n\n\n\n\nCribbing to remove a trapped victim\n\n\n\n\n\n\n\nChecking on a victim"
   },
   {
-    "objectID": "music.html#recent-listens",
-    "href": "music.html#recent-listens",
-    "title": "Music",
-    "section": "Recent Listens",
-    "text": "Recent Listens\n\n\n\n\n\n\nAnytime, Always by Wallows\n\n\n\nEspresso by Sabrina Carpenter\n\n\n\n\n\nAfter Last Night by Carly Rae Jepsen\n\n\n\nPercolator by SZA"
-  },
-  {
-    "objectID": "music.html#albums-i-like",
-    "href": "music.html#albums-i-like",
-    "title": "Music",
-    "section": "Albums I Like",
-    "text": "Albums I Like\n\n\n\n\n\n\nCtrl (Deluxe) by SZA\n\n\n\nModels by Wallows\n\n\n\n\n\nThe Rise and Fall of a Midwest Princess by Chappell Roan\n\n\n\nAmerican Idiot by Green Day"
+    "objectID": "misc.html",
+    "href": "misc.html",
+    "title": "misc",
+    "section": "",
+    "text": "library(leaflet)\n\nWarning: package 'leaflet' was built under R version 4.4.3\n\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\") #LIT OMG"
   },
   {
     "objectID": "fieldwork.html",
@@ -70,11 +70,11 @@
     "text": "This map shows the location and area of sites I’ve worked at! See associated letters below for more information on my time at these sites.\n\n\n\nThis is the site I work at the most. We work mostly in coastal sage scrub habitat which has been restored from invasive grasslands, mostly from controlled burning! Most of the time, we pull weeds, but I have also engaged in seed collection here!\n\n\n\nHere, we work in a degraded coastal dune habitat. Lots of hand weeding grasses and vetch here, but great for people watching!\n\n\n\nI’ve worked in coastal sage scrub and coastal dune habitat here! Truly a beautiful place to work.\n\n\n\nOutside of Lagoon Island, I’ve worked the most at Henley Gate. We’ve engaged in a lot of detail-oriented hand weeding, picking non-native grasses and forbs from between sensitive natives like miniature lupines!\n\n\n\nAt the nursery, I’ve spent a lot of time transplanting baby plants from trays to tiny pots. It’s important to bulk out and prepare natives for future projects!\n\n\n\nThis is a mitigation project that acts as a drainage area for campus housing. It only gets a little attention every year, but I’ve enjoyed my time here pulling non-native thistles and looking at ducks.\n\n\n\nThough this is not my main site, I have worked with my supervisor on a small plot of land to test different weed control methods at NCOS. In our experimental plots, I’ve counted grasses, conducted vegetation surveys, and used a flameweeder!\n\n\n\nThough this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses."
   },
   {
-    "objectID": "fieldwork.html#sites-i-work-at",
-    "href": "fieldwork.html#sites-i-work-at",
+    "objectID": "fieldwork.html#cheadle-center-sites",
+    "href": "fieldwork.html#cheadle-center-sites",
     "title": "Fieldwork",
     "section": "",
-    "text": "This map shows the location and area of sites I’ve worked at! See associated letters below for more information on my time at these sites.\n\nlibrary(leaflet)\n\nWarning: package 'leaflet' was built under R version 4.4.3\n\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\") #LIT OMG\n\n\n\n\n\n\n\n\nThis is the site I work at the most. We work mostly in coastal sage scrub habitat which has been restored from invasive grasslands, mostly from controlled burning! Most of the time, we pull weeds, but I have also engaged in seed collection here!\n\n\n\nHere, we work in a degraded coastal dune habitat. Lots of hand weeding grasses and vetch here, but great for people watching!\n\n\n\nI’ve worked in coastal sage scrub and coastal dune habitat here! Truly a beautiful place to work.\n\n\n\nOutside of Lagoon Island, I’ve worked the most at Henley Gate. We’ve engaged in a lot of detail-oriented hand weeding, picking non-native grasses and forbs from between sensitive natives like miniature lupines!\n\n\n\nAt the nursery, I’ve spent a lot of time transplanting baby plants from trays to tiny pots. It’s important to bulk out and prepare natives for future projects!\n\n\n\nThis is a mitigation project that acts as a drainage area for campus housing. It only gets a little attention every year, but I’ve enjoyed my time here pulling non-native thistles and looking at ducks.\n\n\n\nThough this is not my main site, I have worked with my supervisor on a small plot of land to test different weed control methods at NCOS. In our experimental plots, I’ve counted grasses, conducted vegetation surveys, and used a flameweeder!\n\n\n\nThough this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses."
+    "text": "This map shows the location and area of sites I’ve worked at! See associated letters below for more information on my time at these sites.\n\n\n\nThis is the site I work at the most. We work mostly in coastal sage scrub habitat which has been restored from invasive grasslands, mostly from controlled burning! Most of the time, we pull weeds, but I have also engaged in seed collection here!\n\n\n\nHere, we work in a degraded coastal dune habitat. Lots of hand weeding grasses and vetch here, but great for people watching!\n\n\n\nI’ve worked in coastal sage scrub and coastal dune habitat here! Truly a beautiful place to work.\n\n\n\nOutside of Lagoon Island, I’ve worked the most at Henley Gate. We’ve engaged in a lot of detail-oriented hand weeding, picking non-native grasses and forbs from between sensitive natives like miniature lupines!\n\n\n\nAt the nursery, I’ve spent a lot of time transplanting baby plants from trays to tiny pots. It’s important to bulk out and prepare natives for future projects!\n\n\n\nThis is a mitigation project that acts as a drainage area for campus housing. It only gets a little attention every year, but I’ve enjoyed my time here pulling non-native thistles and looking at ducks.\n\n\n\nThough this is not my main site, I have worked with my supervisor on a small plot of land to test different weed control methods at NCOS. In our experimental plots, I’ve counted grasses, conducted vegetation surveys, and used a flameweeder!\n\n\n\nThough this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses."
   },
   {
     "objectID": "fieldwork.html#other-cool-stuff",
@@ -112,25 +112,46 @@
     "text": "Education\nJune 2025 | University of California, Santa Barbara – Environmental Studies & Geography, B.A."
   },
   {
-    "objectID": "posts/cert/index.html",
-    "href": "posts/cert/index.html",
-    "title": "Community Emergency Response Team",
+    "objectID": "music.html",
+    "href": "music.html",
+    "title": "Music",
     "section": "",
-    "text": "Community Emergency Response Team (CERT) program is a FEMA program which educates volunteers on disaster preparedness. In California, training focuses on preparation for earthquakes and wildfires. In addition to disaster awareness and preparedness, CERT members are also educated in fire safety, light search and rescue, disaster medical operations and triage protocols, and team organization. I obtained my CERT training through UCSB’s CERT Club, in collaboration with the Campus Emergency Manager and Santa Barbara County Fire Station #17, over the course of three days.\n\n\n\n\n\n\n\n\n\nUsing a fire extinguisher\n\n\n\n\n\n\n\nCribbing to remove a trapped victim\n\n\n\n\n\n\n\n\n\nCribbing to remove a trapped victim\n\n\n\n\n\n\n\nChecking on a victim"
+    "text": "Some of my favorite things to do are making Spotify playlists and listening to albums! Sharing good music is definitely a love language of mine, and I love getting new recommendations from my friends. I have a soft spot in my heart for pop music, but my true for-lifer is Green Day (since 7th grade!). Whether I’m biking to class, doing the dishes, or sitting down to work on my assignments, there’s always something playing."
   },
   {
-    "objectID": "posts/rmp/index.html",
-    "href": "posts/rmp/index.html",
-    "title": "Restoration Master Plan",
+    "objectID": "music.html#recent-listens",
+    "href": "music.html#recent-listens",
+    "title": "Music",
+    "section": "Recent Listens",
+    "text": "Recent Listens\n\n\n\n\n\n\nAnytime, Always by Wallows\n\n\n\nEspresso by Sabrina Carpenter\n\n\n\n\n\nAfter Last Night by Carly Rae Jepsen\n\n\n\nPercolator by SZA"
+  },
+  {
+    "objectID": "music.html#albums-i-like",
+    "href": "music.html#albums-i-like",
+    "title": "Music",
+    "section": "Albums I Like",
+    "text": "Albums I Like\n\n\n\n\n\n\nCtrl (Deluxe) by SZA\n\n\n\nModels by Wallows\n\n\n\n\n\nThe Rise and Fall of a Midwest Princess by Chappell Roan\n\n\n\nAmerican Idiot by Green Day"
+  },
+  {
+    "objectID": "posts/parks-testimony/index.html",
+    "href": "posts/parks-testimony/index.html",
+    "title": "Public Testimony",
     "section": "",
-    "text": "Working in a 4-person group, we created a 30-page proposal for the restoration of Lake Los Carneros, a 94-acre public park in Goleta, California. We assessed the site, analyzed the opportunities and challenges in restoration, proposed restoration actions, and created a budget and timeline to complete the project within 2 years with $500,000. The proposed restoration would restore 20 acres of perennial grassland and reduce soil compaction with the implementation of a controlled burn, grazing, tilling, soil amendments, and native plant seeding."
+    "text": "Working with a classmate, we wrote a 16-page mock testimony to Congress exploring and addressing the issue of overtourism in the National Parks. We then gave oral testimony and addresses questions from professor and peers. We suggested implementing a policy requiring all national parks to consider integrating visitor management plans into their general management plans as a potential solution to the issue of overtourism."
+  },
+  {
+    "objectID": "posts/site/index.html",
+    "href": "posts/site/index.html",
+    "title": "Site Notes",
+    "section": "",
+    "text": "Think my website is cool? I created this site in Quarto and all the code is available in my GitHub repo! Check it out"
   },
   {
     "objectID": "posts.html",
     "href": "posts.html",
     "title": "Projects",
     "section": "",
-    "text": "Community Emergency Response Team\n\n\n\nUCSB\n\n\n\nDisaster preparedness training\n\n\n\nAidan Robertson\n\n\nFeb 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRestoration Master Plan\n\n\n\nReport\n\n\nUCSB\n\n\n\nA proposed plan for the restoration of Lake Los Carneros in Goleta, CA\n\n\n\nAidan Robertson\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSRB Data Collection\n\n\n\nR\n\n\nUCSB\n\n\n\nPersonal data collection project\n\n\n\nAidan Robertson\n\n\nJun 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublic Testimony\n\n\n\nReport\n\n\nUCSB\n\n\n\nAddressing overtourism in the National Parks\n\n\n\nAidan Robertson\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Site Notes\n\n\n\nR\n\n\n\nA note on\n\n\n\nAidan Robertson\n\n\nJul 15, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCommunity Emergency Response Team\n\n\n\nUCSB\n\n\n\nDisaster preparedness training\n\n\n\nAidan Robertson\n\n\nFeb 2, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRestoration Master Plan\n\n\n\nReport\n\n\nUCSB\n\n\n\nA proposed plan for the restoration of Lake Los Carneros in Goleta, CA\n\n\n\nAidan Robertson\n\n\nJun 11, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSRB Data Collection\n\n\n\nR\n\n\nUCSB\n\n\n\nPersonal data collection project\n\n\n\nAidan Robertson\n\n\nJun 3, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPublic Testimony\n\n\n\nReport\n\n\nUCSB\n\n\n\nAddressing overtourism in the National Parks\n\n\n\nAidan Robertson\n\n\nNov 27, 2023\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/thesis/index.html",
@@ -138,19 +159,5 @@
     "title": "Maximizing California Native Wildflower Establishment in Invasive Annual Grassland Restoration",
     "section": "",
     "text": "Prescribed fire treating invasive grassland on Lagoon Island at UC Santa Barbara\n\n\nEcological restoration seeks to reverse the impacts of ecosystem degradation. Coastal sage scrub, a type of California shrubland, is a heavily degraded and threatened plant community, having lost its range to urban development, agriculture, and non-native grass invasion. Coastal sage scrub can be reinstated to landscapes through restoration actions such as the removal of invasive grasses and installation of shrubs, however the reinvasion of non-native species poses a threat to restoration sites, causing them to return back to invaded grassland. My research tests the idea that seeding native wildflowers to a restoration site first can increase native cover and decrease the reinvasion of non-native grasses, acting as a transitional state similar to natural succession and ideally supporting the growth of coastal sage scrub shrubs on the landscape.\nIn collaboration with the Cheadle Center for Biodiversity and Ecological Restoration, I conducted field experiments to answer three questions: 1) Which invasive species driven processes are the most limiting to native plant establishment? 2) Which California native wildflower species are the most successful and produce the greatest cover to achieve restoration goals; and 3) What are the most effective treatments to achieve restoration goals? This project compares several weeding treatments and wildflower seeding rates in a field experiment at UC Santa Barbara’s Lagoon Island. The four weeding treatments included prescribed fire, thatch-clearing, grass-specific herbicide, and a control. The three wildflower seeding rates were a high rate, low rate, and no seeding of three California wildflowers: red maids (Calandrinia menziesii), common phacelia (Phacelia distans), and winecup clarkia (Clarkia purpurea).\nWe determined that prescribed fire was correlated with the highest native wildflower cover, and that thatch suppression was more limiting to native establishment than direct competition. Additionally, high red maid germination and cover was associated high overall native cover, making this species a great option for restoration projects!\n\n\n\n\n\n\n\n\n\nThe effect of treatment and seeding rate on percent cover of native plants\n\n\n\n\n\n\n\n\n\nThe effect of treatment and seeding rate on percent cover of non-native plants.\n\n\n\n\n\n\n\n\n\nLinear regressions of native cover by success rate of germination of three target wildflower species. Success rate was defined as the amount of seed germinated as a percentage of the amount of seed spread. CAME refers to red maids (Calandrinia menziesii), PHDI refers to common phacelia (Phacelia distans), and CLPU refers to winecup clarkia (Clarkia purpurea)"
-  },
-  {
-    "objectID": "fieldwork.html#cheadle-center-sites",
-    "href": "fieldwork.html#cheadle-center-sites",
-    "title": "Fieldwork",
-    "section": "",
-    "text": "This map shows the location and area of sites I’ve worked at! See associated letters below for more information on my time at these sites.\n\n\n\nThis is the site I work at the most. We work mostly in coastal sage scrub habitat which has been restored from invasive grasslands, mostly from controlled burning! Most of the time, we pull weeds, but I have also engaged in seed collection here!\n\n\n\nHere, we work in a degraded coastal dune habitat. Lots of hand weeding grasses and vetch here, but great for people watching!\n\n\n\nI’ve worked in coastal sage scrub and coastal dune habitat here! Truly a beautiful place to work.\n\n\n\nOutside of Lagoon Island, I’ve worked the most at Henley Gate. We’ve engaged in a lot of detail-oriented hand weeding, picking non-native grasses and forbs from between sensitive natives like miniature lupines!\n\n\n\nAt the nursery, I’ve spent a lot of time transplanting baby plants from trays to tiny pots. It’s important to bulk out and prepare natives for future projects!\n\n\n\nThis is a mitigation project that acts as a drainage area for campus housing. It only gets a little attention every year, but I’ve enjoyed my time here pulling non-native thistles and looking at ducks.\n\n\n\nThough this is not my main site, I have worked with my supervisor on a small plot of land to test different weed control methods at NCOS. In our experimental plots, I’ve counted grasses, conducted vegetation surveys, and used a flameweeder!\n\n\n\nThough this site is technically finished in its restoration, it still gets some love! After the vernal pool dries up, we get in there to pull invading non-native grasses."
-  },
-  {
-    "objectID": "misc.html",
-    "href": "misc.html",
-    "title": "misc",
-    "section": "",
-    "text": "library(leaflet)\n\nWarning: package 'leaflet' was built under R version 4.4.3\n\nleaflet() %&gt;%\n  addTiles() %&gt;%  # Add default OpenStreetMap map tiles\n  addMarkers(lng=174.768, lat=-36.852, popup=\"The birthplace of R\") #LIT OMG"
   }
 ]

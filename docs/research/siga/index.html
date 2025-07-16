@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/bootstrap/bootstrap-fc0a68dd183966b141cc714282c410f8.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
 <link href="../../site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+<script src="../../site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="../../site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="../../site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -179,6 +182,30 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="siga-flat.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Flat of treated windmill pink germinants"><img src="siga-flat.jpg" class="img-fluid figure-img" alt="Flat of treated windmill pink germinants"></a></p>
+<figcaption>Flat of treated windmill pink germinants</figcaption>
+</figure>
+</div>
+<p>Prescribed fire is a powerful tool in restoration it removes built up plant material and kills invasive grass seeds at high temperatures. Research on the lethal temperature and time of exposure has been conducted for common invasive grasses and some thistles, and is an important consideration when planning prescribed fires for the purpose of removing invasive species.</p>
+<p>My research aims to understand the relationship between time of exposure and temperature on the germination of the common non-native forb windmill pink (<em>Silene gallica</em>). I treated seeds to three temperatures (150, 200, and 240°C) for three time periods (30 seconds, 1 minute, 1.5 minutes) to simulate exposure to convective heat within the soil. I then placed each replicate in a pot with soil to germinate, and counted each germinant to determine the effect of each treatment. Analysis is still in progress, but preliminary visualizations show that temperatures of 200°C and higher result in significantly lower germination at all exposure times.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="prelim-siga-analysis.png" class="lightbox" data-gallery="quarto-lightbox-gallery-2" title="Linear regression depicting the relationship between exposure time and germinants at each exposure temperature"><img src="prelim-siga-analysis.png" class="img-fluid figure-img" alt="Linear regression depicting the relationship between exposure time and germinants at each exposure temperature"></a></p>
+<figcaption>Linear regression depicting the relationship between exposure time and germinants at each exposure temperature</figcaption>
+</figure>
+</div>
+<div>
+
+</div>
+<div class="quarto-layout-panel" data-layout-ncol="2">
+<div class="quarto-layout-row">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: flex-start;">
+<p><img src="aidan-and-oven.jpg" class="img-fluid" data-group="siga" alt="A selfie with the labratory oven"> <img src="siga-all-flats.jpg" class="img-fluid" data-group="siga" alt="Flats with pots of treated windmill pink in greenhouse"></p>
+</div>
+</div>
+</div>
 
 
 
@@ -614,6 +641,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"fade","descPosition":"bottom","loop":true,"openEffect":"fade","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

@@ -9,6 +9,7 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/site/index.html",
       "/posts/cert/index.html",
       "/posts/rmp/index.html",
       "/posts/srb/index.html",
