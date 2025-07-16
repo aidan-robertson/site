@@ -1,0 +1,33 @@
+---
+title: "Maximizing California Native Wildflower Establishment in Invasive Annual Grassland Restoration"
+description: "A transitional stage in coastal sage scrub restoration"
+author: 
+  - Aidan Robertson
+  - url: https://github.com/aidan-robertson
+date: May 30, 2025
+categories: [Restoration, Fire, R, UCSB]
+image: redmaids.jpg
+fiters:
+  - lightbox
+lightbox: 
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: true
+---
+
+![Prescribed fire treating invasive grassland on Lagoon Island at UC Santa Barbara](fire.jpg)
+
+Ecological restoration seeks to reverse the impacts of ecosystem degradation. Coastal sage scrub, a type of California shrubland, is a heavily degraded and threatened plant community, having lost its range to urban development, agriculture, and non-native grass invasion. Coastal sage scrub can be reinstated to landscapes through restoration actions such as the removal of invasive grasses and installation of shrubs, however the reinvasion of non-native species poses a threat to restoration sites, causing them to return back to invaded grassland. My research tests the idea that seeding native wildflowers to a restoration site first can increase native cover and decrease the reinvasion of non-native grasses, acting as a transitional state similar to natural succession and ideally supporting the growth of coastal sage scrub shrubs on the landscape.
+
+In collaboration with the Cheadle Center for Biodiversity and Ecological Restoration, I conducted field experiments to answer three questions: 1) Which invasive species driven processes are the most limiting to native plant establishment? 2) Which California native wildflower species are the most successful and produce the greatest cover to achieve restoration goals; and 3) What are the most effective treatments to achieve restoration goals? This project compares several weeding treatments and wildflower seeding rates in a field experiment at UC Santa Barbara’s Lagoon Island. The four weeding treatments included prescribed fire, thatch-clearing, grass-specific herbicide, and a control. The three wildflower seeding rates were a high rate, low rate, and no seeding of three California wildflowers: red maids (*Calandrinia menziesii*), common phacelia (*Phacelia distans*), and winecup clarkia (*Clarkia purpurea*).
+
+We determined that prescribed fire was correlated with the highest native wildflower cover, and that thatch suppression was more limiting to native establishment than direct competition. Additionally, high red maid germination and cover was associated high overall native cover, making this species a great option for restoration projects!
+
+::: {layout-ncol="1"}
+![The effect of treatment and seeding rate on percent cover of native plants](nativecoverfinal.png){group="thesis"}
+
+![The effect of treatment and seeding rate on percent cover of non-native plants.](nonnativefinal.png){group="thesis"}
+
+![Linear regressions of native cover by success rate of germination of three target wildflower species. Success rate was defined as the amount of seed germinated as a percentage of the amount of seed spread. CAME refers to red maids (*Calandrinia menziesii*), PHDI refers to common phacelia (*Phacelia distans*), and CLPU refers to winecup clarkia (*Clarkia purpurea*)](successratefinal.png){group="thesis"}
+:::

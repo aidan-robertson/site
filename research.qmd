@@ -1,7 +1,8 @@
 ---
 title: "Research"
+listing:
+  contents: research
+  type: grid
+  sort: "date desc"
+  categories: true
 ---
-IN PROGRESS
-
-for hiding/showing/folding code
-https://quarto.org/docs/output-formats/html-code.html

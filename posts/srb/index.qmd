@@ -7,7 +7,7 @@ author:
   - url: https://github.com/aidan-robertson
 date: June 3, 2024
 categories: [R, UCSB]
-image: srb-by-week.png
+image: srb.jpeg
 ---
 
 ## Context
@@ -44,7 +44,7 @@ At the time, I worked at UC Santa Barbara's Student Resource Building Front Desk
 
 ### June 3, 2024
 
-**Figure 4.** The most obvious change is the increase in observations for the 3-6 and closing shifts, which dwarf all other shift times. I explain this discrepancy in the note below. 
+**Figure 4.** The most obvious change is the increase in observations for the 3-6 and closing shifts, which dwarf all other shift times. I explain this discrepancy in the note below.
 
 ![](6-3-24.png){fig-align="center"}
 

@@ -1,0 +1,12 @@
+---
+title: "Site Notes"
+description: "A note on "
+author: 
+  - Aidan Robertson
+  - url: https://github.com/aidan-robertson
+date: July 15, 2025
+categories: [R]
+image: github.png
+---
+
+Think my website is cool? I created this site in Quarto and all the code is available in my GitHub [repo](https://github.com/aidan-robertson/site)! Check it out {{< fa heart title="a heart" >}}

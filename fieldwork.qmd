@@ -4,17 +4,9 @@ lightbox: true
 toc: false
 ---
 
-## Sites I Work At
+## Cheadle Center Sites
 
 This map shows the location and area of sites I've worked at! See associated letters below for more information on my time at these sites.
-
-```{r}
-library(leaflet)
-leaflet() %>%
-  addTiles() %>%  # Add default OpenStreetMap map tiles
-  addMarkers(lng=174.768, lat=-36.852, popup="The birthplace of R") #LIT OMG
-```
-
 
 ```{=html}
 <style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="CCBER sites I work at" src="//ucsb.maps.arcgis.com/apps/Embed/index.html?webmap=d58c800acd294870b006274d8911f88f&extent=-119.8869,34.4083,-119.8616,34.4187&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe></div>
