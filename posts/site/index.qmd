@@ -1,6 +1,6 @@
 ---
 title: "Site Notes"
-description: "A note on "
+description: "A note on how I built the site"
 author: 
   - Aidan Robertson
   - url: https://github.com/aidan-robertson
